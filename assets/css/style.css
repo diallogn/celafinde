@@ -145,6 +145,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 28px;
   }
 }
+@media (max-width: 555px) {
+  #header .logo {
+    font-size: 24px;
+  }
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
